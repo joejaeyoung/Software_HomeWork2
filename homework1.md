@@ -155,3 +155,14 @@ ___매우 중요___ 텍스트입니다.
 
 ***
 ***
+
+## 이미지
+1. 이미지 파일 오픈  
+![logo.png](../UsingMarkDown/logo.png)
+2. 이미지 파일 닫기
+```
+![logo.png](../UsingMarkDown/logo.png)
+```
+
+ ***
+ *** 
