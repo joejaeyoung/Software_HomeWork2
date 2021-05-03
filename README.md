@@ -279,6 +279,7 @@ Git 사용법 in 소공
 |    tag   |    O     |
 |  branch  |    O     |
 | checkout |    O     |
+| pull     |    O     |
 |   merge  |    O     |
 |   init   |    O     |
 |  remote  |    O     |
