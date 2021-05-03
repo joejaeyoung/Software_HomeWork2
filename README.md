@@ -265,7 +265,9 @@ Git 사용법 in 소공
 - 마지막 완성파일 push
 
 ![마지막 push](https://user-images.githubusercontent.com/68009715/116876178-015df880-ac57-11eb-8dbd-cce73e3a358a.JPG)
-| --------- | -------- |
+
+|명령어 | 이름|
+| --- | --- |
 |   config  |    O     |
 |   clone   |    O     |  
 |   status  |    O     | 
