@@ -233,3 +233,28 @@ ___ 언더바 표기
 
 ***
 ***
+
+## 이스케이프 문자
+> 서식을 지정하는데 사용하는 리터럴 문자 표시 위해 사용  
+
+\* 역슬래쉬가 없으면 글머리 기호가 된다
+```
+\* 역슬래쉬가 없으면 글머리 기호가 된다
+```
+이스케이프 할 수 있는 문자들은  
+![reference.png](../UsingMarkDown/reference.png)  
+이다.
+
+***
+***
+
+## 마크다운 & HTML
+* 마크다운 안에서 HTML 사용가능
+* HTML 안에서 마크다운은 사용불가
+
+***
+***
+## 깃허브 주소
+[GitHub](https://github.com/joejaeyoung/Software_Engineering "ReadMe Repo")에 확장기능 정리한 것들 올려놨습니다!
+
+***
