@@ -268,20 +268,20 @@ Git 사용법 in 소공
 
 |명령어 | 이름|
 | --- | --- |
-|   config  |    O     |
-|   clone   |    O     |  
-|   status  |    O     | 
-|    add    |    O     |
-|   commit  |    O     |
-|    push   |    O     |
-|    log    |    O    |
-|reset --hard|    O   |
-|    tag   |    O     |
-|  branch  |    O     |
-| checkout |    O     |
-| pull     |    O     |
-|   merge  |    O     |
-|   init   |    O     |
-|  remote  |    O     |
-|  rebase  |    O     |
+|[config](#config)|    O     |
+|[clone](#clone)  |    O     |  
+|[status](#status)|    O     | 
+|[add](#add)      |    O     |
+|[commit](#commit)|    O     |
+| [push](#push)   |    O     |
+| [log](#log)     |    O    |
+|[reset --hard](#reset --hard)|    O   |
+|[tag](#tag)      |    O     |
+|[branch](#branch)|    O     |
+|[checkout](#checkout)|    O     |
+| [pull](#pull)   |    O     |
+| [merge](#merge) |    O     |
+|   [init](#init) |    O     |
+|[remote](#remote)|    O     |
+|[rebase](#rebase)|    O     |
 
