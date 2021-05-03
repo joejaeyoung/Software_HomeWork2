@@ -388,3 +388,36 @@ ___ 언더바 표기
 ***
 >>>>>>> 새로만든 dir, develop브랜치에 과제1 github 제출물-1
 ***
+
+
+## 자동 링크
+>www를 통해 인식된다
+
+숭실대학교 학적 정보를 알고 싶다면 https://saint.ssu.ac.kr/irj/portal 를 방문하자
+* 위에서 배운 것과는 다르게 링크를 따로 걸어주지 않았다
+```
+숭실대학교 학적 정보를 알고 싶다면 https://saint.ssu.ac.kr/irj/portal 를 방문하자
+```
+
+***
+***
+
+## 허용되지 않은 HTML
+```
+<title>
+<textarea>
+<style>
+<xmp>
+<iframe>
+<noembed>
+<noframes>
+<script>
+<plaintext>
+이러한 태그는 <를 &lt;로 대체되어 수행된다.
+```
+
+___
+>참고 사이트
+>https://www.markdownguide.org/
+>더 자세하게 알아야 하면 참고하자 
+
