@@ -275,7 +275,7 @@ Git 사용법 in 소공
 |[commit](#commit)|    O     |
 | [push](#push)   |    O     |
 | [log](#log)     |    O    |
-|[reset --hard](#reset --hard)|    O   |
+|[reset --hard](#reset_--hard)|    O   |
 |[tag](#tag)      |    O     |
 |[branch](#branch)|    O     |
 |[checkout](#checkout)|    O     |
