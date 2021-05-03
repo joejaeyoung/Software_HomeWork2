@@ -264,3 +264,20 @@ Git 사용법 in 소공
 - 마지막 완성파일 push
 
 ![마지막 push](https://user-images.githubusercontent.com/68009715/116876178-015df880-ac57-11eb-8dbd-cce73e3a358a.JPG)
+| --------- | -------- |
+|   config  |    O     |
+|   clone   |    O     |  
+|   status  |    O     | 
+|    add    |    O     |
+|   commit  |    O     |
+|    push   |    O     |
+|    log    |    O    |
+|reset --hard|    O   |
+|    tag   |    O     |
+|  branch  |    O     |
+| checkout |    O     |
+|   merge  |    O     |
+|   init   |    O     |
+|  remote  |    O     |
+|  rebase  |    O     |
+
