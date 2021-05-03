@@ -165,7 +165,7 @@ Git 사용법 in 소공
     - 두개의 브랜치에 있는 모든 작업내역을 포함하는 방법.
     - 커밋의 색이 같아지면 두 브랜치가 모두 저장소의 모든 작업 내역을 포함하고 있다는 뜻임
     
-    ![merge](https://user-images.githubusercontent.com/68009715/116868109-2481ab80-ac49-11eb-8f69-13fb8d0861ca.JPG)
+![merge](https://user-images.githubusercontent.com/68009715/116868109-2481ab80-ac49-11eb-8f69-13fb8d0861ca.JPG)
     
 4. merge후 develop에서 개발했던 내용 + 이미지 파일 내용 추가
   - master에서 add, commit한 내역
@@ -205,7 +205,7 @@ Git 사용법 in 소공
 ![pull](https://user-images.githubusercontent.com/68009715/116873964-7e876e80-ac53-11eb-8407-1d5bad83ad39.JPG)
 
 ### rebase 커밋5~8
-1. branch 생성
+   1. branch 생성
   - 현재 local의 master에는 기존의 과제 1 제출물이 존재
   - master브랜치에는 기존의 과제1 제출물만 완성시킬 예정
   - develop 브랜치를 새로 만들어 기존의 과제 1 제출물 파일에 github에 올린 md 파일 설명법을 올릴 예정(소공 과제1)
@@ -225,15 +225,15 @@ Git 사용법 in 소공
   ![dir master변경2](https://user-images.githubusercontent.com/68009715/116875182-78928d00-ac55-11eb-99ba-ae53c61d714a.JPG)
 
 4. develop 브랜치에서 기존의 파일에 새로운 내용 추가 1 커밋 7
-  - 1. 기존의 master 브랜치에서 develop 브랜치로 checkout
+  - 1.기존의 master 브랜치에서 develop 브랜치로 checkout
   
   ![dir branch checkout](https://user-images.githubusercontent.com/68009715/116875334-af68a300-ac55-11eb-83a8-d233f27365fe.JPG)
-  - 2. develop 브랜치에서 2단계 반복
+  - 2.develop 브랜치에서 2단계 반복
   
   ![dir developqusrud](https://user-images.githubusercontent.com/68009715/116875374-c5766380-ac55-11eb-9280-70cd1664cc24.JPG)
 
 5. develop 브랜치에서 기존의 파일에 새로운 내용 추가 2 커밋 8
-  - 1. develop 브랜치에서 2단계 반복
+  - 1.develop 브랜치에서 2단계 반복
   
   ![dir develop 변경 2](https://user-images.githubusercontent.com/68009715/116875442-e8a11300-ac55-11eb-8be4-1874f1718050.JPG)
   
@@ -244,7 +244,8 @@ Git 사용법 in 소공
 - 두개의 브랜치끼리의 작업을 합치고 싶어 rebase 명령어 사용
 - commit의 흐름을 한줄로 만들 수 있음
 - 순서대로 개발한 것 처럼 보이게 됨
-</br>
+
+
 - 첫 리베이스 시도 실패
 
 ![rebase 실패1](https://user-images.githubusercontent.com/68009715/116875812-7da40c00-ac56-11eb-9266-d5f89729cefa.JPG)
