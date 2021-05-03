@@ -278,8 +278,8 @@ Git 사용법 in 소공
 |[add](#add)      |    O     |
 |[commit](#commit)|    O     |
 | [push](#push)   |    O     |
-| [log](#log)     |    O    |
-|[reset --hard](#reset_--hard)|    O   |
+| [log](#log)     |    O     |
+|[reset](#reset)  |    O     |
 |[tag](#tag)      |    O     |
 |[branch](#branch)|    O     |
 |[checkout](#checkout)|    O     |
