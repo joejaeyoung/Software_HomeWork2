@@ -177,3 +177,59 @@ ___매우 중요___ 텍스트입니다.
 
 ***
 ***
+
+## 수평선 만들기
+>수평선 앞뒤로 빈줄 넣기!
+---
+***
+___
+```
+--- 마이너스 표기
+*** 별 표기
+___ 언더바 표기
+```
+
+  ***
+  ***
+
+## 하이퍼링크, 연결
+>#### 제목없는 하이퍼링크  
+저는 [VisualStudio](https://code.visualstudio.com/docs/languages/markdown)를 통해 공부합니다.
+```
+저는 [VisualStudio](https://code.visualstudio.com/docs/languages/markdown)를 통해 공부합니다.
+```
+
+
+>#### 제목 추가된 하이퍼링크
+저는 [VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")를 통해 공부합니다.
+```
+저는 [VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")를 통해 공부합니다.
+```
+
+>#### URL 및 이메일 주소
+<https://code.visualstudio.com/docs/languages/markdown>  
+<wowhdud0303@gmail.com>
+
+
+***
+***
+
+## 링크 서식
+> 링크 강조
+>>저는 **[VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")** 를 통해 공부합니다.  
+```
+저는 **[VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")** 를 통해 공부합니다.
+```  
+> 링크 기울이기
+>> 저는 *[VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")* 를 통해 공부합니다.
+```
+저는 [VisualStudio](https://code.visualstudio.com/docs/languages/markdown "VS Helper")를 통해 공부합니다.
+```
+>코드 표시
+>> 저는 [`code`](#code)를 통해 공부합니다.
+```
+저는 [`code`](#code)를 통해 공부합니다.
+```
+
+***
+***
