@@ -95,7 +95,8 @@ Git 사용법 in 소공
 
 ![git log--pretty=oneline](https://user-images.githubusercontent.com/68009715/116862414-ab318b00-ac3f-11eb-94af-cd3a496510d6.JPG)
 
-### reset --hard(커밋 세번째 후 취소)
+### reset 
+>--hard(커밋 세번째 후 취소)
 - 1.vi로 이미지 관련 내용을 추가함
 - 2.add * 명령어를 통해 바로 올리려 했음
 - 3.작업 디렉토리에 올라가면 안되는 파일이 존재했음
@@ -108,7 +109,8 @@ Git 사용법 in 소공
     
 ![reset --hard](https://user-images.githubusercontent.com/68009715/116862996-95709580-ac40-11eb-98bb-ac6ccf42b5c1.JPG)
 
-### tag(세번째 커밋)
+### tag
+>(세번째 커밋)
 - 1.커밋을 전으로 돌렸음
 - 2.vi로 기존의 이미지 관련 내용을 추가한 후 2단계 반복
 - 방금 푸쉬한 내용에 관련하여 이미지 파일 내용을 추가했다는 태그를 달고 싶음
@@ -150,7 +152,8 @@ Git 사용법 in 소공
 
 ![checkout](https://user-images.githubusercontent.com/68009715/116867270-c7392a80-ac47-11eb-98c3-1edec3cb4202.JPG)
 
-### merge 커밋4
+### merge 
+>커밋4
 - 1.기존의 과제파일에 백틱내용을 추가하기 위해
 - 2.과제파일 수정후 commit(백틱내용 추가)만 함
 - develop브랜치에서 수정한 파일의 내용이 검증되어서
@@ -204,7 +207,8 @@ Git 사용법 in 소공
 
 ![pull](https://user-images.githubusercontent.com/68009715/116873964-7e876e80-ac53-11eb-8407-1d5bad83ad39.JPG)
 
-### rebase 커밋5~8
+### rebase 
+>커밋5~8
    1. branch 생성
   - 현재 local의 master에는 기존의 과제 1 제출물이 존재
   - master브랜치에는 기존의 과제1 제출물만 완성시킬 예정
